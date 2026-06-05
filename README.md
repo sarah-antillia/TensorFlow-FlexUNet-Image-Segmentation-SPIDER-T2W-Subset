@@ -1,6 +1,10 @@
-<h2>TensorFlow-FlexUNet-Image-Segmentation-SPIDER-T2W-Subset (2026/05/28)</h2>
+<h2>TensorFlow-FlexUNet-Image-Segmentation-SPIDER-T2W-Subset (Updated: 2026/06/06)</h2>
 Sarah T. Arai<br>
-Software Laboratory antillia.com<br><br>
+Software Laboratory antillia.com<br>
+<ul>
+<li>2026/06/06: Modified normaize method of <a href=",/src/TensorFlowFlexModel.py">TensorFlowFlexModel</a> class.
+</li>
+</ul>
 This is the first experiment of Image Segmentation for <b>SPIDER: Lumber Spine MRI Subset </b> based on 
 our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a>
  (<b>TensorFlow Flexible UNet Image Segmentation Model for Multiclass</b>), and a PNG

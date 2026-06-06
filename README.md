@@ -2,7 +2,7 @@
 Sarah T. Arai<br>
 Software Laboratory antillia.com<br>
 <ul>
-<li>2026/06/06: Modified normaize method of <a href="./src/TensorFlowFlexModel.py">TensorFlowFlexModel</a> class.
+<li>2026/06/06: Modified a normalize method of <a href="./src/TensorFlowFlexModel.py">TensorFlowFlexModel</a> class.
 </li>
 </ul>
 This is the first experiment of Image Segmentation for <b>SPIDER: Lumber Spine MRI Subset </b> based on 
